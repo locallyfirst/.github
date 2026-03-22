@@ -10,7 +10,8 @@ Powered by WebGPU for local AI inference.
 
 | Project | Description |
 |---------|-------------|
-| [**policy-decoder**](https://github.com/locallyfirst/policy-decoder) | Decode legal jargon into plain English. Drop a privacy policy, ToS, or EULA and get a plain English breakdown with severity-coded highlights. |
+| [**policy-decoder**](https://github.com/locallyfirst/policy-decoder) | Decode privacy policies, ToS, and EULAs into plain English with severity-coded highlights. |
+| [**contract-reviewer**](https://github.com/locallyfirst/contract-reviewer) | Review contracts clause-by-clause with risk classification, plain English explanations, and missing clause detection. |
 
 ---
 
@@ -26,10 +27,6 @@ Powered by WebGPU for local AI inference.
 ## Contributing
 
 All projects welcome contributions! Check individual repos for guidelines.
-
----
-
-> **Note:** These repositories were previously stored on a private git server and have been moved here and made open source with all git history removed.
 
 ---
 
