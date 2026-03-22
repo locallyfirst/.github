@@ -6,24 +6,16 @@ Powered by WebGPU for local AI inference.
 
 ---
 
-## Apps
-
-| App | Description |
-|-----|-------------|
-| **Policy Decoder** | Privacy policies & ToS → plain English with severity-coded highlights |
-| **Contract Reviewer** | Upload contracts, flag risky clauses, explain obligations |
-| **Cookie Consent Auditor** | See what's actually being tracked — necessary vs marketing |
-| **PII Scrubber** | Highlights and redacts names, emails, phones, SSNs before sharing |
-| *...more coming* | |
-
----
-
 ## Why local-first?
 
 - **Privacy by design** — Your documents never leave your device
 - **No accounts** — Just open and use
 - **Works offline** — No internet required after initial load
 - **Open source** — Audit the code yourself
+
+---
+
+> **Note:** These repositories were previously stored on a private git server and have been moved here and made open source with all git history removed.
 
 ---
 
