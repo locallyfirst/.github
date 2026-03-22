@@ -6,12 +6,26 @@ Powered by WebGPU for local AI inference.
 
 ---
 
+## Projects
+
+| Project | Description |
+|---------|-------------|
+| [**policy-decoder**](https://github.com/locallyfirst/policy-decoder) | Decode legal jargon into plain English. Drop a privacy policy, ToS, or EULA and get a plain English breakdown with severity-coded highlights. |
+
+---
+
 ## Why local-first?
 
 - **Privacy by design** — Your documents never leave your device
 - **No accounts** — Just open and use
 - **Works offline** — No internet required after initial load
 - **Open source** — Audit the code yourself
+
+---
+
+## Contributing
+
+All projects welcome contributions! Check individual repos for guidelines.
 
 ---
 
